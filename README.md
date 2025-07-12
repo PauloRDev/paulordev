@@ -85,9 +85,3 @@
     <img alt=Postman height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   </div>
 </div>
-
-
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/paulordev/paulordev/output/snake.svg" alt="Snake animation" />
-</p>
