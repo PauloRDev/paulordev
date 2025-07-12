@@ -25,7 +25,7 @@
 
   - 📚 I'm committed to continuous learning through professional courses outside of college, aiming to strengthen both technical skills and practical experience.
 
-  - ⚡ Outside of coding, I enjoy working out, exploring cryptocurrencies, and studying English daily with speaking, reading, and shadowing techniques. I believe discipline and curiosity are the foundation for growth. 🚀
+  - ⚡ Outside of coding, I enjoy working out and studying English daily. I believe discipline and curiosity are the foundation for growth. 🚀
 </details>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-roberto-franco-5476a629a/)
