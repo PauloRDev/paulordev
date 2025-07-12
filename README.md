@@ -7,7 +7,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Paulo! A Software Developer from Brazil.
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15"> Hi 👋, I'm Paulo! A Web Developer from Brazil.
 
   - 🌱 I’m currently pursuing a degree in Systems Analysis and Development.
 
