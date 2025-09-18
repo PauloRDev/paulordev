@@ -35,6 +35,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
+- [Mini Seller Console](https://github.com/PauloRDev/MiniSellerConsole)
 - [Weather App](https://github.com/PauloRDev/Weather-App)
 - [Dogs Social Media](https://github.com/PauloRDev/Dogs-Social-Media)
 - [Quiz](https://github.com/PauloRDev/Quiz)
