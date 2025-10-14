@@ -35,10 +35,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-! Back End Projects:
+Back End Projects
 - [Employee Registration](https://github.com/PauloRDev/EmployeeRegistration)
   
-! Front End Projects:
+Front End Projects
 - [Mini Seller Console](https://github.com/PauloRDev/MiniSellerConsole)
 - [Weather App](https://github.com/PauloRDev/Weather-App) 
 - [Dogs Social Media](https://github.com/PauloRDev/Dogs-Social-Media)
