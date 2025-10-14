@@ -35,10 +35,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-• Back End Projects:
+! Back End Projects:
 - [Employee Registration](https://github.com/PauloRDev/EmployeeRegistration)
   
-• Front End Projects:
+! Front End Projects:
 - [Mini Seller Console](https://github.com/PauloRDev/MiniSellerConsole)
 - [Weather App](https://github.com/PauloRDev/Weather-App) 
 - [Dogs Social Media](https://github.com/PauloRDev/Dogs-Social-Media)
@@ -48,9 +48,6 @@
 <p align="left">
   <img align="center" src="https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif" alt="Coding Animation" />
 </p>
-
-
-> ⚠️ My Back-end repositories and projects are private at moment and currently in development.
 
 
 <!-- Skills -->
