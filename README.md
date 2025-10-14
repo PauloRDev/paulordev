@@ -35,11 +35,14 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Employee Registration](https://github.com/PauloRDev/EmployeeRegistration) - Back end Project
-- [Mini Seller Console](https://github.com/PauloRDev/MiniSellerConsole) - Front end Project
-- [Weather App](https://github.com/PauloRDev/Weather-App) - Front end Project
-- [Dogs Social Media](https://github.com/PauloRDev/Dogs-Social-Media) - Front end Project
-- [To-do List](https://github.com/PauloRDev/To-do-List) - Front end Project
+• Back End Projects:
+- [Employee Registration](https://github.com/PauloRDev/EmployeeRegistration)
+  
+• Front End Projects:
+- [Mini Seller Console](https://github.com/PauloRDev/MiniSellerConsole)
+- [Weather App](https://github.com/PauloRDev/Weather-App) 
+- [Dogs Social Media](https://github.com/PauloRDev/Dogs-Social-Media)
+- [To-do List](https://github.com/PauloRDev/To-do-List)
 
 <!-- GIF -->
 <p align="left">
