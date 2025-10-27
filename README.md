@@ -9,9 +9,7 @@
 <p>
  <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15">  I'm Paulo Roberto. </h3>   
 
-  - 🌱 I’m currently pursuing a degree in Systems Analysis and Development.
-
-  - 🔭 I am looking for my first official opportunity in the tech industry. My goal is to contribute to impactful projects and grow within a team that values clean code and great software architecture.
+  - I am looking for opportunity in the tech industry. My goal is to contribute to impactful projects and grow within a team that values clean code and great software architecture.
 </p>
 
 <!-- Dropdown -->
@@ -19,7 +17,7 @@
   <summary>👨‍💻 More about me</summary>
   <br/>
 
-  - 💬 I’m 27 years old, based in Brazil, advanced in English, and currently working on real-world projects through an international startup among the UK's Top 100 as a volunteer.  
+  - 💬 I’m 27 years old, based in Brazil, advanced in English, and currently working on real-world projects through an international startup among the UK's Top 100. Start as a volunteer, when through the journey i've achieve a permanent role.  
     I have hands-on experience with React, JavaScript, TypeScript, Tailwind CSS, and version control with Git/GitHub.  
     Currently, I’m focused on expanding my backend expertise with Java, Spring Framework, and SQL databases.
 
@@ -36,7 +34,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 Back End Projects
-- [Employee Registration](https://github.com/PauloRDev/EmployeeRegistration)
+- [Employee Registration](https://github.com/PauloRDev/EmployeeRegistration) - Active development
   
 Front End Projects
 - [Mini Seller Console](https://github.com/PauloRDev/MiniSellerConsole)
