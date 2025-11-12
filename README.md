@@ -9,22 +9,14 @@
 <p>
  <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="15">  I'm Paulo Roberto. </h3>   
 
-  - I am looking for opportunity in the tech industry. My goal is to contribute to impactful projects and grow within a team that values clean code and great software architecture.
+  - My goal is to contribute to impactful projects and grow within a team that values clean code and great software architecture.
 </p>
 
 <!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-  <br/>
 
-  - 💬 I’m 27 years old, based in Brazil, advanced in English, and currently working on real-world projects through an international startup among the UK's Top 100. Start as a volunteer, when through the journey i've achieve a permanent role.  
+  - 💬 I’m 27 years old, based in Brazil, advanced in English, and currently working on real-world projects through an international startup among the UK's Top 100.
     I have hands-on experience with React, JavaScript, TypeScript, Tailwind CSS, and version control with Git/GitHub.  
-    Currently, I’m focused on expanding my backend expertise with Java, Spring Framework, and SQL databases.
-
-  - 📚 I'm committed to continuous learning through professional courses outside of college, aiming to strengthen both technical skills and practical experience.
-
-  - ⚡ Outside of coding, I enjoy working out and studying English daily. I believe discipline and curiosity are the foundation for growth. 🚀
-</details>
+    Currently, I’m focused on expanding my backend expertise with Java, Spring Framework, and SQL databases and applying the knowledge in freelancer projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-roberto-franco-5476a629a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pr98.dev@gmail.com)
