@@ -26,7 +26,6 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Employee Registration - CRUD](https://github.com/PauloRDev/EmployeeRegistration)
-- [Weather App](https://github.com/PauloRDev/Weather-App) 
 - [Dogs Social Media](https://github.com/PauloRDev/Dogs-Social-Media)
 - [To-do List](https://github.com/PauloRDev/To-do-List)
 
