@@ -2,6 +2,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World!</h1></summary>
+     <img src="https://komarev.com/ghpvc/?username=paulordev&color=BD93F9&style=for-the-badge" alt="Profile Views" />
   </ul>
 </div>
 
