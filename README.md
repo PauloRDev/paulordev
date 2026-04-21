@@ -25,8 +25,10 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Employee Registration - CRUD](https://github.com/PauloRDev/EmployeeRegistration)
+- [MiniSellerConsole](https://github.com/PauloRDev/MiniSellerConsole)
 - [Dogs Social Media](https://github.com/PauloRDev/Dogs-Social-Media)
 - [To-do List](https://github.com/PauloRDev/To-do-List)
+- [Quiz](https://github.com/PauloRDev/Quiz)
 
 <!-- GIF -->
 <p align="left">
